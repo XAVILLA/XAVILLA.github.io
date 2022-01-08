@@ -13,7 +13,7 @@ Hi! I am a fourth-year undergraduate student at UC Berkeley studying computer sc
 Publications
 ======
 
-| <figure style="width: 180px"> <img src="/images/slam project.png"> </figure> |  **Sensor-aware SLAM-based Frontier Exploration and Mapping**<br/>**Zixian Zang**, Haotian Shen, Lizhi Yang, Avideh Zakhor<br/> Autonomous Vehicles and Machines, at IS&T/SPIE 2022 (Oral)<br/> [project page](https://sites.google.com/berkeley.edu/c106b-sensor-aware-slam/home) \| [code](https://github.com/lzyang2000/herox) \| [draft paper](http://www-video.eecs.berkeley.edu/papers/lyang/EECS106B_Final_Project.pdf) |
+| <figure style="width: 180px"> <img src="/images/slam project.png"> </figure> |  **Sensor-aware SLAM-based Frontier Exploration and Mapping**<br/>**Zixian Zang**, Haotian Shen, Lizhi Yang, Avideh Zakhor<br/> Autonomous Vehicles and Machines, at IS&T/SPIE 2022 (Oral)<br/> [project page](https://sites.google.com/berkeley.edu/c106b-sensor-aware-slam/home) \| [code](https://github.com/lzyang2000/herox) \| [paper](http://www-video.eecs.berkeley.edu/papers/zzx/sensor-aware.pdf) |
 
 
 Education
